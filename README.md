@@ -7,9 +7,8 @@
 </p>
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://twitter.com/Ahmed_ss_Dahy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Ahme_ss_Dahy" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ahmed-dahy007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-dahy007" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100006639699366&mibextid=b06tZ0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/eyad.hamza.1/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ahmed-hasan-aba65a252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-dahy007" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100087957022241&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/eyad.hamza.1/" height="30" width="40" /></a>
 
 <hr>
 
