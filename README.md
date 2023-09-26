@@ -25,5 +25,5 @@
 <img align="left" alt="Bootstrap" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" />
 <img align="left" alt="Bootstrap" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" />
 <img align="left" alt="Bootstrap" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" />
-<img align="left" alt="Bootstrap" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Pinialogo.svg/800px-Pinialogo.svg.png" />
+<img align="left" alt="Bootstrap" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Pinialogo.svg/800px-Pinialogo.svg.png" />
 </div>
