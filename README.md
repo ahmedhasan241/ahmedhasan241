@@ -1,4 +1,7 @@
-<h1 align="center">HI👋, I'am Ahmed Hasan</h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="200">
+</p>
+<h1 align="center">HI, I'am Ahmed Hasan</h1>
 
 `Front End Developer (developer, web development)`
 
